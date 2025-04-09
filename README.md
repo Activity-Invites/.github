@@ -1,5 +1,6 @@
-# Activity-Invites ✨
 
+<h1 align="center">Activity-Invites ✨</h1>
+  
 <p align="center">
   <strong>发现、创建和分享你身边的精彩活动！</strong><br/>
   一个现代化的活动邀请与发现平台，灵感来源于 Apple Invite 和 Luma。<br>
@@ -20,7 +21,7 @@ Activity-Invites 是一个致力于连接活动主办方与参与者的平台。
 * **活动发现:** 用户可以按**城市**、**日期**、**类型**等多种维度浏览和搜索活动。
 * **便捷分享:** 轻松将活动邀请分享到各大社交平台。
 * **主办方工具:** (如果适用) 提供活动管理、参与者统计等功能。
-* **(其他你认为重要的特性)**
+* **待补充**
 
 ## 💡 我们的愿景
 
@@ -31,8 +32,8 @@ Activity-Invites 是一个致力于连接活动主办方与参与者的平台。
 以下是我们组织内的主要项目仓库：
 
 * **[Activity-Invites-server](https://github.com/Activity-Invites/Activity-Invites-server):** 后端服务，负责核心业务逻辑和 API。
-* **[Activity-admin-pro](https://github.com/Activity-Invites/Activity-admin-pro):** (如果适用) 活动主办方或管理员使用的后台管理界面。(
-* **[Activity-Invites-iOS-App](https://github.com/Activity-Invites/Activity-Invites-iOS-App):** (如果适用) 官方 iOS 客户端。
+* **[Activity-admin-pro](https://github.com/Activity-Invites/Activity-admin-pro):** 活动主办方或管理员使用的后台管理界面。(
+* **[Activity-Invites-iOS-App](https://github.com/Activity-Invites/Activity-Invites-iOS-App):** 官方 iOS 客户端。
 
 ## 🤝 参与贡献
 
@@ -43,8 +44,8 @@ Activity-Invites 是一个致力于连接活动主办方与参与者的平台。
 
 ## 🔗 保持联系
 
-* **项目官网:** [你的项目官网链接 (如果没有可以去掉)]
-* **联系邮箱:** [你的联系邮箱]
+* **项目官网:** [待定]
+* **联系邮箱:** [liuxiaowen66621@gmail.com]
 * **(其他社交媒体链接, 如 Twitter, Discord 等)**
 
 ---
